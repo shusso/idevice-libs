@@ -1,0 +1,9 @@
+[submodule "ios-webkit-debug-proxy"]
+	path = ios-webkit-debug-proxy
+	url = git@github.com:google/ios-webkit-debug-proxy.git
+[submodule "ideviceinstaller"]
+	path = ideviceinstaller
+	url = git@github.com:libimobiledevice/ideviceinstaller.git
+[submodule "libimobiledevice"]
+	path = libimobiledevice
+	url = git@github.com:libimobiledevice/libimobiledevice.git
