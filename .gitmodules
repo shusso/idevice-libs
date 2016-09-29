@@ -7,3 +7,6 @@
 [submodule "libimobiledevice"]
 	path = libimobiledevice
 	url = git@github.com:libimobiledevice/libimobiledevice.git
+[submodule "appium-xcuitest-driver"]
+	path = appium-xcuitest-driver
+	url = git@github.com:appium/appium-xcuitest-driver.git
